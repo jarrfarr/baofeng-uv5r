@@ -22,7 +22,7 @@ Be carfeul what you do with these radios! DO NOT BE DUMB!
 ---
 
 
-### The Basics
+### 👍 The Basics
 The UV-5R is a cheap, Chinese-made VHF/UHF Ham radio.
 It can transmit on frequency ranges of 136-174Mhz and 400-520MHz.
 The original versions were limited to 400-480Mhz, the intermediate versions then gained an additional 40Mhz headway on the upper side of the UHF band. The newest radios sold in Canada/USA now limit the range so that it is impossible to transmit on GMRS/FRS frequencies. 
