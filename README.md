@@ -17,7 +17,7 @@ It is not to provide legal direction, these radios are capable of transmitting o
 
 Be carfeul what you do with these radios! DO NOT BE DUMB!
 
-"With great power, comes great responsibility" - Uncle Ben
+"With great power (a whopping 5W in this case), comes great responsibility" - Uncle Ben
 
 ---
 
@@ -37,6 +37,17 @@ My Radio body is branded as "Tenway UV-5R Pro" but it is the exact same thing as
 They are all knock-offs of each other, and I wouldn't be surprised if your mode has "UV-5R PRO ULTIMATE XLT EDITION" (spoiler alert, it's just a UV-5R).
 
 ---
+
+
+### 💻 CHIRP (Radio Programming)
+I use CHIRP to program and configure my radios. You can manually create/edit channels in the field, but you are limited to numbers only.
+With the use of CHIRP you can batch program multiple channels with alphanumeric characters, this makes it a LOT easier.
+Download CHIRP from [here](https://chirp.danplanet.com/projects/chirp/wiki/Download).
+
+You also have the ability to pull frequencies such as local repeaters from various websites, all without leaving the program. This simplifies the programming process as everything is done automatically, NO COPY/PASTE!!!!
+
+---
+
 
 ### 📃To-do list
 - add CHIRP CSV and IMG files
