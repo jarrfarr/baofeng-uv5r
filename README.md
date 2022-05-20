@@ -49,6 +49,16 @@ You also have the ability to pull frequencies such as local repeaters from vario
 ---
 
 
+### 🔧 Modifications
+Hardware:
+- 15.6in whip antenna
+- Extended battery packs
+- Radio customization
+
+Software:
+- Channel presets (programmed)
+- Radio prefrences
+
 ### 📃To-do list
 - add CHIRP CSV and IMG files
 - add useful frequencies chart pdf
