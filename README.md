@@ -34,7 +34,7 @@ Antennae come in many shapes and sizes, but I like to use the whip-style antenna
 For batteries, I have 2x extended packs and one standard pack. They are advertised as 1800mAh and 3800mAh respectively.
 
 My Radio body is branded as "Tenway UV-5R Pro" but it is the exact same thing as the UV-5R from Baofeng, Pofung, BTECH, etc.
-They are all knock-offs of each other, and I wouldn't be surprised if your mode has "UV-5R PRO ULTIMATE XLT EDITION" (spoiler alert, it's just a UV-5R).
+They are all knock-offs of each other, and I wouldn't be surprised if your model is called "UV-5R PRO ULTIMATE XLT MANY POWERS 100km EDITION" (spoiler alert, it's just a UV-5R).
 
 ---
 
