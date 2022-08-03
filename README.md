@@ -17,7 +17,7 @@ It is not to provide legal direction, these radios are capable of transmitting o
 
 Be carfeul what you do with these radios! DO NOT BE DUMB!
 
-"With great power (a whopping 5W in this case), comes great responsibility" - Uncle Ben
+"With great power (a whopping 5W in this case), comes great responsibility" - [Uncle Ben](https://youtu.be/_5d6rTQcU2U?t=76)
 
 ---
 
